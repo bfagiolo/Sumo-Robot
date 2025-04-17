@@ -4,4 +4,9 @@ This Arduino code runs our competitive sumo robot that made it to round 3 in the
 The robot's brain uses different modes depending on what's happening - it can scan for enemies, track and charge when it spots one, and quickly turn around if it detects the boundary. The coolest part is when it finds an opponent - it aligns itself based on where the enemy was detected, then charges at different speeds depending on how close the target is.
 
 Having the continuously moving sensor gave us a big advantage since most other robots only had fixed sensors with limited detection angles. Our approach allowed us to detect opponents from multiple directions without having to constantly rotate the entire robot, making our strategy more efficient and responsive during battles.
+
+
+
 ![sumorobot1](https://github.com/user-attachments/assets/8c25d8c7-e198-40e3-a5d4-ce23755c2127)
+![sumorobot2](https://github.com/user-attachments/assets/30f9d412-8f1d-416a-976b-5e40c585e56a)
+![sumorobot3](https://github.com/user-attachments/assets/2970ea75-0aa8-4626-91a5-33f98b9a820b)
